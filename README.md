@@ -17,7 +17,7 @@ This repository is about collecting different important DSA topics/questions whi
 ### **Note:** Before contributing please read out the official guidelines [Hacktoberfest 2022 Guidelines](https://hacktoberfest.com/)
 
 
-> Contribute Something valuable and Earn Swags 😊
+> Contribute Something valuable and Earn Swag😊
 
 
 # "Happy Contributing"
