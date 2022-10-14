@@ -5,7 +5,8 @@ This repository is about collecting different important DSA topics/questions whi
 2. If any topic is missing, then add it with its name as folder name.
 3. Questions along with solution is allowed.
 4. Theory is also allowed.
-5. Java Language is preferred. 
+5. Java Language is preferred but C++ is also acceptable. 
+6. Do any of the point 2,3,4.
 
 ## Rules for Contributing 🎯
 - Star this repo
